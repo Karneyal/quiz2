@@ -11,13 +11,13 @@ const questions = [
         question: "What problem did Bartimaeus have that Jesus fixed?(బార్తిమయస్‌కు ఉన్న ఏ సమస్యను యేసు పరిష్కరించాడు? )",
         options: ["He was deaf  అతను చెవిటివాడు", "He was mute  అతను మూగవాడు", "He was blind  అతను అంధుడు", "He was paralyzed  అతను కాళ్ళి"],
         answer: "He was blind  అతను అంధుడు",
-        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new."
+        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new.నేను స్వచ్ఛమైన నీటిని నిలుపుతాను, ఇక్కడే నమ్మకం మొదలై, జీవితం కొత్తగా మారుతుంది."
     },
     {
         question: "True or False: While on Earth, Jesus had the power to raise dead people back to life?(నిజమా అబద్ధమా: భూమిపై ఉన్నప్పుడు, చనిపోయిన వారిని తిరిగి బ్రతికించే శక్తి యేసుకు ఉందా?)",
         options: ["True నిజమే", "False అబద్ధం"],
         answer: "True నిజమే",
-        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new."
+        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new. నేను స్వచ్ఛమైన నీటిని నిలుపుతాను, ఇక్కడే నమ్మకం మొదలై, జీవితం కొత్తగా మారుతుంది."
     },
     
     
