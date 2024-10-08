@@ -4,7 +4,7 @@ const questions = [
         question: "What was Matthew before he followed Jesus?(యేసును అనుసరించే ముందు మత్తయి ఏ వృత్తిలో ఉన్నాడు?)",
         options: ["A soldier సైనికుడు", "A fisherman  మత్స్యకారుడు", "A tax collector పన్ను వసూలుదారు", "A priest పూజారి"],
         answer: "A tax collector పన్ను వసూలుదారు",
-        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new."
+        clue: "Clue: I hold the water, pure and true, Where faith begins, and life’s made new. నేను స్వచ్ఛమైన నీటిని నిలుపుతాను, ఇక్కడే నమ్మకం మొదలై, జీవితం కొత్తగా మారుతుంది."
     },
     
     {
